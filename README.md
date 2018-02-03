@@ -1,7 +1,7 @@
 # CAS701-Logic-and-Discrete-Mathematics
 
-Course Description 
 
+This is a graduate course I took in fall 2017 in McMaster University.
 The course will cover some of the material encountered at the undergradu-ate courses on logic and discrete mathematics as well as advanced materialon  topics  such  as  proof  systems,  sets,  relations,  and  functions,  recursion,type theory, and  rst and higher order logic systems.  
 There will be empha-sis on topics related to computer science and software engineering.
 "MissionThe mission of this course is to give students a graduate-level understandingof 
